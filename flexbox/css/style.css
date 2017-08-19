@@ -11,7 +11,7 @@ box-sizing: border-box;
 }
 
 .flex_container > .flex_container_inner {
-width: 300px;
+width: 200px;
 height: 200px;
 background: #33ffbf;
 margin:10px;
